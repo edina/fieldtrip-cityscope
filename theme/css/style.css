@@ -1,0 +1,48 @@
+.ui-header h1{
+    background-image: url("../css/images/icon.png");
+}
+
+/* hide save records layout toggle */
+#layout-toggle{
+    display: none;
+}
+
+#saved-records-page-header .ui-block-c{
+    width: 20%;
+}
+
+#saved-records-page-header-login-sync{
+    display: none;
+}
+
+#saved-records-page-header a{
+    background-color: #38c;
+}
+
+#annotate-image-size-switch{
+    display: none;
+}
+
+#annotate-form label,
+#annotate-form .ui-input-text
+{
+    color: black;
+    background-color: white;
+    text-shadow: none;
+}
+
+#hmap{
+    position: absolute;
+    top: -100px;
+}
+/*STYLES TO CHANGE UPLOAD BUTTON ON LIST RECORDS */
+#saved-records-page-header a{
+    background-color: transparent;
+}
+#saved-records-page-header-upload{
+    background-image : none;
+    background-size : auto auto;
+    background-position : 0 0;
+    border: #b5c976 solid 1.5px;
+    width:100%;
+}

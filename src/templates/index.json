@@ -1,0 +1,47 @@
+{
+    "body": {
+        "section1": {
+            "title": "",
+            "items": {}
+        },
+        "section2": {
+            "items": {}
+        },
+        "section3": {
+            "items": {
+                "item2": {
+                    "div": {
+                        "class": "ui-block-b sync-show sync-download-button"
+                    },
+                    "a": {
+                        "href": "#"
+                    },
+                    "img": {
+                        "src": "plugins/sync/css/images/download-editors.png",
+                        "alt": "Update Survey"
+                    },
+                    "title": "Update Survey"
+                },
+                "item3": {
+                    "div": {
+                        "id": "hmap",
+                        "width": "10px",
+                        "height": "10px"
+                    },
+                    "title": "map"
+                }
+
+            }
+        },
+        "section4": {
+            "items": {
+                "item5": {
+                    "div": {"class": "ui-block-b"},
+                    "a": {"href": "saved-maps.html"},
+                    "img": {"src": "css/images/saved.png", "alt": "Save Map"},
+                    "title": "Saved"
+                }
+            }
+        }
+    }
+}
